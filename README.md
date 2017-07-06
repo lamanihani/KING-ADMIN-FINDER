@@ -1,5 +1,6 @@
 # KING-ADMIN-FINDER
 A Python Script to find admin panel of any site
+
 1- First to run this script you must install python3 
 for install python3 it easy , you have to write this code in terminal : apt-get install python3 
 
