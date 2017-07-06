@@ -17,6 +17,7 @@ print('''
 |.........KING ADMIN WEB FINDER...........|
 +-----------------------------------------+
 ''')
+print(" \033[95m YOU MUST WRITE PROTOCOLE HTTPS:// or HTTP:// ex: http://www.ex.com , ex :https://www.ex.com
 print(" \033[95m YOU MUST WRITE / AT THE END OF THE SITE EX: www.example.com/")
 print("                                                                       ")
 url = input("\033[97m enter the website : ")
