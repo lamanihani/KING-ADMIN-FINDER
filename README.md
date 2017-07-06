@@ -9,7 +9,9 @@ for install python3 it easy , you have to write this code in terminal : apt-get 
 3-now the script asks you to enter the site you want to know its registration plate 
 after inserting the site , 
 
-Make sure you've written the protocol http or https 
+Make sure you've written the protocol http:// or https://
+
+
 ex : http://www.example.com/
 ex 2 : https://www.example.com/
 
