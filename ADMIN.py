@@ -3,6 +3,7 @@
 # github : www.github.com/lamanihani
 import urllib.request
 import time
+import sys
 print('''
 XX   MMMMMMMMMMMMMMMMss'''                          '''ssMMMMMMMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMyy''                                    ''yyMMMMMMMMMMMM   XX
