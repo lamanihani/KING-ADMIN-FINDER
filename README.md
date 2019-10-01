@@ -1,3 +1,4 @@
+README Pt-br: [Clique aqui](README-Pt-br)
 # KING-ADMIN-FINDER
 A Python Script to find admin panel of any site
 
@@ -20,3 +21,4 @@ ex 2 : https://www.example.com/
 now you must to wait , 
 ####### the ADMIN PAGE it will show you in green .
 That's all , if you have any problem you can tell me in comments or contact with me in fb : www.facebook.com/lamanihani
+
