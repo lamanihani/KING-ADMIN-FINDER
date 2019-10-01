@@ -1,0 +1,23 @@
+# KING-ADMIN-FINDER
+Script python para encontrar o painel administrativo de qualquer site
+
+## Instalação
+
+1- Para rodar o script é necessario utilizar o Python 3.
+Para instalar o Python3, escereva o seguinte comando no terminal: apt-get install python3 
+
+2-Para executar o script utilize o comando : python3 ADMIN.py
+
+3- Será solicitado o endereço do site que você deseja encontrar o painel de administração , 
+
+Verifique se você escreveu o protocolo http:// ou https://
+
+
+ex : http://www.example.com/
+ex 2 : https://www.example.com/
+
+,adicione uma barra / no fim do endereço inserido.
+
+Aguarde enquanto o script encontra o painel, 
+####### a ADMIN PAGE será mostrada em verde na tela.
+É isso, Caso ocorra algum problema deixe nos comentários ou entre em contato pelo Facebook : www.facebook.com/lamanihani
